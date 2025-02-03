@@ -645,6 +645,9 @@ footer ul li a:hover {
         margin-bottom: 0;
         height: 38vw;
     }
+    .contact form {
+        flex-direction: column;
+    }
 }
 
 @media screen and (max-width: 600px) {
